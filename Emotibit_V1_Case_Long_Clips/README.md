@@ -1,7 +1,7 @@
 # EmotiBit Case V1
 Designed by the Paquette Lab at the Université du Québec à Chicoutimi (UQAC).
 
-Cases can be printed using a 3D printer or sent to a 3D printing service such as https://www.shapeways.com/ (we've had good success with Processed Versatile Plastic)
+Cases can be printed using a 3D printer or sent to a 3D printing service such as https://www.shapeways.com/ (we've had good success with "Processed Versatile Plastic" material at Shapways)
 
 <img src="https://github.com/EmotiBit/EmotiBit_Cases/blob/master/Emotibit_V1_Case_Long_Clips/skateboard5.png?raw=true" width="25%">
 
