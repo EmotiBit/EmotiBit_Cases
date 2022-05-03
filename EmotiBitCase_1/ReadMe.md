@@ -1,8 +1,8 @@
 # Description
 This case has been designed keeping in mind the design requirements for EmotiBit V4 and extending compatibility with Adafruit Feather M0 with stacking headers.
 
-# Image
-
+# Overview Image
+![](./assets/overview_image.gif)
 
 # EmotiBit Compatibility
 <table><tr><th>EmotiBit<br>Version</th><th>Fit?</th></tr><tr><td>V1</td><td>Y</td></tr><tr><td>V2</td><td>Y</td></tr><tr><td>V3</td><td>Y</td></tr><tr><td>V4</td><td>Y</td></tr></table>
