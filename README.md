@@ -1,4 +1,4 @@
-# EmotiBit Cases
+## EmotiBit Cases
 
 | EmotiBit Case | Preview | EmotiBit<br>Compatibility | Feather<br>Compatibility |
 | ------------- | ------------ | ------------ | ------------ |
