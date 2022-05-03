@@ -1,1 +1,1 @@
-EmotiBit version information can be found under the SD card.
+Version information can be found on EmotiBit under the SD card.
