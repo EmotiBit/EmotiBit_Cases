@@ -2,7 +2,7 @@
 This case has been designed keeping in mind the design requirements for EmotiBit V4 and extending compatibility with Adafruit Feather M0 with stacking headers.
 
 # Preview
-![](./assets/overview_image.gif)
+![](./assets/preview.gif)
 
 # EmotiBit Compatibility
 <!--- This table is written in minified html to permit scraping into a sub-table in the root EmotiBit_Cases/readme.md -->
