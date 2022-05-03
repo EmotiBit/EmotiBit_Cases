@@ -19,7 +19,7 @@ This case was designed for snowboarders to wear EmotiBit while performing tricks
 | Works? | Vendor/Printer | Material | Notes |
 | :----: | ------ | ------ | ------ |
 | Y | [shapeways](https://www.shapeways.com/) | Processed Versatile Plastic | Robust case for extreme conditions. |
-| Y | [shapeways](https://www.shapeways.com/) | Dark Gray PA12 Glass Beads | Somewhat fragile. Clips can break if not careful. |
+| Y? | [shapeways](https://www.shapeways.com/) | Dark Gray PA12 Glass Beads | Somewhat fragile. Clips can break if not careful. |
 
 # Additional Hardware
 None
