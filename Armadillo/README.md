@@ -1,7 +1,7 @@
 # Description
 This case was designed for snowboarders to wear EmotiBit while performing tricks in a halfpipe. 
 
-# Overview Image
+# Preview
 ![](./assets/overview_image.gif)
 
 # EmotiBit Compatibility
