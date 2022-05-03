@@ -12,7 +12,7 @@ This case has been designed keeping in mind the design requirements for EmotiBit
 
 # 3D Printing Notes
 | Works? | Vendor/Printer | Material | Notes |
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ |
 | Y | [shapeways](https://www.shapeways.com/) | Natural TPU (MJF) | Soft-touch finish. Somewhat flexible. Stays in place somewhat without screws |
 | Y | [shapeways](https://www.shapeways.com/) | Black Natural Versatile Plastic | Screws help hold case in place. |
 
