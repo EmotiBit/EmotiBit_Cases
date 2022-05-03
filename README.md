@@ -1,5 +1,4 @@
-# EmotiBit_Cases
-Cases for the EmotiBit
+# EmotiBit Cases
 
 | EmotiBit Case | Quick lookup |
 | ------------- | ------------ |
