@@ -41,7 +41,7 @@ This case has been designed keeping in mind the design requirements for EmotiBit
 | Feather reset button | Requires spudger |
 | Feather stacking header pins | Y |
 
-# Known limitations
+# Known Limitations
 - Over-tightening the screws can cause EmotiBit PCB to bend somewhat (PLEASE BE CAREFUL TO NOT OVERTIGHTEN!)
 
 # Credits
