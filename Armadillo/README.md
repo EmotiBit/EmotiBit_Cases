@@ -15,7 +15,7 @@ This case was designed for snowboarders to wear EmotiBit while performing tricks
 <!--- This table is written in minified html to permit scraping into a sub-table in the root EmotiBit_Cases/readme.md -->
 <table><tr><th>Feather<br>Version</th><th>Fit?</th></tr><tr><td><a href=https://www.adafruit.com/product/2598>M0 WiFi<br>Regular Header</a></td><td>Y</td></tr><tr><td><a href=https://www.adafruit.com/product/3044>M0 WiFi<br>Stacking Header</a></td><td>N</td></tr></table>
 
-# 3D Printing Notes
+# 3D Printing
 | Works? | Vendor/Printer | Material | Notes |
 | :----: | ------ | ------ | ------ |
 | Y | [shapeways](https://www.shapeways.com/) | Processed Versatile Plastic | Robust case for extreme conditions. |
