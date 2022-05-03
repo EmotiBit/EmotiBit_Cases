@@ -40,7 +40,7 @@ None
 | Feather reset button | Case must be partially removed |
 | Feather stacking header pins | N/A |
 
-# Known limitations
+# Known Limitations
 This case will work ONLY when using with a non-stacking Adafruit Feather (e.g. https://www.adafruit.com/product/2598), such as those shipped with EmotiBit Beta Units.
 
 ![image](https://user-images.githubusercontent.com/537062/154559508-3f8db637-875d-4ec1-a158-826584fe21fa.png)
