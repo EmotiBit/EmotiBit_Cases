@@ -5,7 +5,7 @@ This case has been designed keeping in mind the design requirements for EmotiBit
 ![](./assets/overview_image.gif)
 
 # EmotiBit Compatibility
-<table><tr><th>EmotiBit<br>Version</th><th>Fit?</th></tr><tr><td>V1</td><td>Y</td></tr><tr><td>V2</td><td>Y</td></tr><tr><td>V3</td><td>Y</td></tr><tr><td><a href=https://github.com/EmotiBit/EmotiBit_Cases/tree/feat-reorg-cases/EmotiBit_3D_Models/V4>V4</a></td><td>Y</td></tr></table>
+<table><tr><th>EmotiBit<br>Version</th><th>Fit?</th></tr><tr><td>V1</td><td>Y</td></tr><tr><td>V2</td><td>Y</td></tr><tr><td>V3</td><td>Y</td></tr><tr><td><a href=https://github.com/EmotiBit/EmotiBit_Cases/tree/feat-reorg-cases/EmotiBit_3D_Models/V04>V4</a></td><td>Y</td></tr></table>
 
 # Feather Compatibility
 <table><tr><th>Feather<br>Version</th><th>Fit?</th></tr><tr><td><a href=https://www.adafruit.com/product/2598>M0 WiFi<br>Regular Header</a></td><td>Y</td></tr><tr><td><a href=https://www.adafruit.com/product/3044>M0 WiFi<br>Stacking Header</a></td><td>Y</td></tr></table>
