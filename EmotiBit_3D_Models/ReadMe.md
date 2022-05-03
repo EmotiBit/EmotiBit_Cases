@@ -1,1 +1,1 @@
-# Description about EmotiBit 3D models
+EmotiBit version information can be found under the SD card.
