@@ -7,6 +7,7 @@ This case was designed for snowboarders to wear EmotiBit while performing tricks
 # EmotiBit Compatibility
 <!--- This table is written in minified html to permit scraping into a sub-table in the root EmotiBit_Cases/readme.md -->
 <table><tr><th>EmotiBit<br>Version</th><th>Fit?</th></tr><tr><td>V01</td><td>Y</td></tr><tr><td>V02</td><td>Y</td></tr><tr><td>V03</td><td>Y</td></tr><tr><td><a href=https://github.com/EmotiBit/EmotiBit_Cases/tree/feat-reorg-cases/EmotiBit_3D_Models/V04>V04</a></td><td>Y?</td></tr></table>
+
 ## EmotiBit Compatibility Notes
 - EmotiBit V04 just barely fits length-wise into this case
 
@@ -29,8 +30,8 @@ None
 | SD card | Case must be partially removed |
 | EmotiBit Button | Case must be partially removed |
 | USB connector | Case must be partially removed |
-| EmotiBit LEDs visible | LEDs can be somewhat visible through case material |
-| Feather LEDs visible | LEDs can be somewhat visible through case material |
+| EmotiBit LEDs visible | LEDs are somewhat visible through case material |
+| Feather LEDs visible | LEDs are somewhat visible through case material |
 | Short-edge EmotiBit strap slots | Y |
 | Long-edge EmotiBit strap slots  | N |
 | Hibernate switch | Case must be partially removed |
