@@ -19,8 +19,8 @@ This case has been designed keeping in mind the design requirements for EmotiBit
 | Y | [shapeways](https://www.shapeways.com/) | Black Natural Versatile Plastic | Screws help hold case in place. |
 
 # Additional Hardware
-- Screws [link]
-- Nuts [link]
+- [2x M2x25mm screws](https://www.digikey.com/en/products/detail/essentra-components/50M020040P025/11638319?s=N4IgTCBcDaIIwBYCsBaJAGAsus70PQAUdUA5AERAF0BfIA)
+- [2x M2 Nuts](https://www.digikey.com/en/products/detail/essentra-components/04M020040HN/9677098?s=N4IgTCBcDaIEoAUDCB2ADADgCwFoByAIiALoC%2BQA)
 
 # Feature Accessibility
 | Feature | Accessible? |
