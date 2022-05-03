@@ -12,29 +12,32 @@ This case has been designed keeping in mind the design requirements for EmotiBit
 
 # 3D Printing Notes
 | Works? | Vendor/Printer | Material | Notes |
-| ------ | ------ | ------ | ------ |
-| Y | [shapeways](https://www.shapeways.com/) | Natural TPU (MJF) | Soft-touch finish. Somewhat flexible. Stays in place somewhat without screws |
+| :----: | ------ | ------ | ------ |
+| Y | [shapeways](https://www.shapeways.com/) | Natural TPU (MJF) | Soft-touch finish. Somewhat flexible. Stays in place to some extent without screws. |
 | Y | [shapeways](https://www.shapeways.com/) | Black Natural Versatile Plastic | Screws help hold case in place. |
 
 # Additional Hardware
-- Screws
-- Nuts
+- Screws [link]
+- Nuts [link]
 
 # Feature Accessibility
 | Feature | Accessible? |
-| ------ | ------ |
+| ------ | :----: |
 | SD card | Y |
 | EmotiBit Button | Y |
 | USB connector | Y |
 | EmotiBit LEDs visible | Y |
 | Feather LEDs visible | Y |
-| EmotiBit strap slots | Y |
-| EmotiBit strap slots  | Y |
-| Feather stacking header pins | Y |
+| Short-edge EmotiBit strap slots | Y |
+| Long-edge EmotiBit strap slots  | Y |
+| Hibernate switch | Requires spudger |
 | Battery connector | Y |
 | Battery removal/replacement | Case must be partially removed |
-| Hibernate switch | Requires spudger |
 | Feather reset button | Requires spudger |
+| Feather stacking header pins | Y |
 
 # Known limitations
-- Over-tightening the screws can cause EmotiBit PCB to flex (BE CAREFUL!)
+- Over-tightening the screws can cause EmotiBit PCB to bend somewhat (PLEASE BE CAREFUL TO NOT OVERTIGHTEN!)
+
+# Credits
+Designed by the EmotiBit team
