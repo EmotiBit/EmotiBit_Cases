@@ -49,7 +49,7 @@ None
 | Short-edge EmotiBit strap slots | N |
 | Long-edge EmotiBit "side" strap slots  | Y |
 | Hibernate switch | N |
-| Battery connector | N |
+| Battery connector | Removed |
 | Battery removal/replacement | Soldered |
 | Feather reset button | With paperclip |
 | Feather stacking header pins | N |
