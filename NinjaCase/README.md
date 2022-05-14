@@ -55,7 +55,7 @@ None
 | Feather stacking header pins | N |
 
 ## Known Limitations
-None
+Some caution should be exercised when inserting/removing EmotiBit. It's a tight fit and it can damage the EmotiBit strap slots if you aren't careful.
 
 ## Credits
 Designed by the Joel Murphy @biomurph
