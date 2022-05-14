@@ -46,13 +46,13 @@ None
 | EmotiBit Button | Y |
 | USB connector | Y |
 | EmotiBit LEDs visible | Y |
-| Feather LEDs visible | Y |
+| Feather LEDs visible | N |
 | Short-edge EmotiBit strap slots | N |
 | Long-edge EmotiBit "side" strap slots  | Y |
-| Hibernate switch | ? |
+| Hibernate switch | N |
 | Battery connector | N |
 | Battery removal/replacement | Soldered |
-| Feather reset button | Y |
+| Feather reset button | With paperclip |
 | Feather stacking header pins | N |
 
 ## Known Limitations
