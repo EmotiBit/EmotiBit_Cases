@@ -1,6 +1,5 @@
 ## Description
-This case exposes only the side velcro band slots.
-This case designed to print in flexible filament.
+This case requires removing the battery connector. It exposes only the side velcro band slots. Designed to print in flexible filament.
 
 ## Preview
 ![](./assets/preview.gif)
