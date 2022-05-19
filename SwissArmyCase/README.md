@@ -9,7 +9,7 @@
 ### Case
 ![](./assets/preview.gif)
 
-### slider
+### Slider
 The slider is shown below(positioned inside the case)
 
 <img src="./assets/SwissArmyKnife_complete-2.png" width="300" align="left">
