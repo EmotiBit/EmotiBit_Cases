@@ -12,7 +12,7 @@
 ### slider
 The slider is shown below(positioned inside the case)
 
-<img src="./assets/SwissArmyKnife_complete-2.png" width="300">
+<img src="./assets/SwissArmyKnife_complete-2.png" width="300" align="left">
 <img src="./assets/SwissArmyKnife_complete-1.png" width="395"> 
 
 
