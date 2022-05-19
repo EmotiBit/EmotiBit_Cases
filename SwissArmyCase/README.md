@@ -1,16 +1,16 @@
 ## Description
-- This case has been designed keeping in mind the design requirements for EmotiBit V4 and extending compatibility with Adafruit Feather M0 with stacking headers.
-- The hibernate switch slider has been designed to provide easy access to toggle the HIB switch(available on EmotiBit V4+).
+- The case has been designed keeping in mind the design requirements for EmotiBit V4 and extending compatibility with Adafruit Feather M0 with stacking headers.
+- The slider has been designed to provide easy access to toggle the HIB switch(available on EmotiBit V4+).
   - The slider is printed as a separate part. You may use the case without the slider, but you  will need to use the spudger provided with 
-    the Essentials Kit to access the HIB switch. 
+    the [Essentials Kit](https://shop.openbci.com/products/emotibit-essentials-kit) to access the HIB switch. 
 
 ## Preview
 
 ### Case
 ![](./assets/preview.gif)
 
-### Hibernate switch slider
-The slider is shown below(in white)
+### slider
+The slider is shown below(positioned inside the case)
 
 <img src="./assets/SwissArmyKnife_complete-2.png" width="300">
 <img src="./assets/SwissArmyKnife_complete-1.png" width="395"> 
@@ -33,9 +33,9 @@ None required.
 | Y | [shapeways](https://www.shapeways.com/) | Natural TPU (MJF) | Soft-touch finish. Somewhat flexible. Stays in place to some extent without screws. |
 | Y | [shapeways](https://www.shapeways.com/) | Black Natural Versatile Plastic | Screws help hold case in place. |
 
-### 3D Printing additional Notes
-- We recommend using a hard material(like the versatile plastic) when printing the hibernate switch slider.
-Since the part controls a moving component we dont want a deformation caused by the push/pull action.
+### 3D Printing additional notes
+- We recommend using a hard material(like the versatile plastic) when printing the case slider.
+Since this part controls a moving component we don't want any deformation which might be caused by the push/pull action.
 
 ## Additional Hardware
 - [2x M2x25mm screws](https://www.digikey.com/en/products/detail/essentra-components/50M020040P025/11638319?s=N4IgTCBcDaIIwBYCsBaJAGAsus70PQAUdUA5AERAF0BfIA)
@@ -43,6 +43,18 @@ Since the part controls a moving component we dont want a deformation caused by 
 
 ### Additional Hardware Notes
 - M2.5 screws can also fit, but standard-size M2.5 nuts don't fit particularly well next to the stacking-header socket.
+
+
+
+## Assembly
+- Stack the EmotiBit as demonstrated in the [documentation](https://github.com/EmotiBit/EmotiBit_Docs/blob/master/Getting_Started.md#stack-your-emotibit)
+- Place the slider between the EmotiBit and Feather such that the bottom notch on the slider fits over the HIB switch on EmotiBit.
+- Fit the case over assembled EmotiBit(with the slider now sandwiched between the EmotiBit and Feather).
+  - You will notice that the slider stands flush with the slots on the case.
+- You may use the screws linked above to fasten the case to EmotiBit.
+  - If using the slider, using the screws is recommended as it adds more integrity to the structure and holds everything in place.  
+
+[ToDo: add some images demonstrating assembly.]
 
 ## Feature Accessibility
 | Feature | Accessible? |
@@ -54,7 +66,7 @@ Since the part controls a moving component we dont want a deformation caused by 
 | Feather LEDs visible | Y |
 | Short-edge EmotiBit strap slots | Y |
 | Long-edge EmotiBit strap slots  | Y |
-| Hibernate switch(*without slider*/ **with slider**) | *Requires spudger* / **Y** |
+| Hibernate switch(**with slider**/ *without slider*) | **Y**/ *Requires spudger*  |
 | Battery connector | Y |
 | Battery removal/replacement | Case must be partially removed |
 | Feather reset button | Requires spudger |
