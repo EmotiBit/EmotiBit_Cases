@@ -16,7 +16,7 @@
 switch. 
 - The hibernate (HIB) switch can be toggled by by pushing the slider in from either direction. 
 
-<img src="./assets/SwissArmyKnife_complete-1.png" width="350"> 
+<img src="./assets/SwissArmyKnife_complete-1.png" width="400"> 
 
 
 ## EmotiBit Compatibility
