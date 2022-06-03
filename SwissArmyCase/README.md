@@ -8,6 +8,7 @@
 
 ### Case
 ![](./assets/preview.gif)
+
 <img src="./assets/SwissArmyCase_black_finger_01.png" width="400">
 
 ### Slider
