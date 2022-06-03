@@ -9,14 +9,14 @@
 ### Case
 ![](./assets/preview.gif)
 
-<img src="./assets/SwissArmyCase_black_finger_01.png" width="400">
+<img src="./assets/SwissArmyCase_black_finger_01.png" width="450">
 
 ### Slider
 - The slider when correctly positioned inside the case, provides an easy and convinient way to toggle the hibernate (HIB)
 switch. 
 - The hibernate (HIB) switch can be toggled by by pushing the slider in from either direction. 
 
-<img src="./assets/SwissArmyKnife_complete-1.png" width="400"> 
+<img src="./assets/SwissArmyKnife_complete-1.png" width="350"> 
 
 
 ## EmotiBit Compatibility
