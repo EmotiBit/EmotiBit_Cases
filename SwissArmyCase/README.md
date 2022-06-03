@@ -8,6 +8,7 @@
 
 ### Case
 ![](./assets/preview.gif)
+![](./assets/SwissArmyCase_black_finger_01.png)
 
 ### Slider
 - The slider when correctly positioned inside the case, provides an easy and convinient way to toggle the hibernate (HIB)
