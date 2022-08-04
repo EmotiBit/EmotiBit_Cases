@@ -25,7 +25,8 @@ switch.
 
 ## Feather Compatibility
 <!--- This table is written in minified html to permit scraping into a sub-table in the root EmotiBit_Cases/readme.md -->
-<table><tr><th>Feather<br>Version</th><th>Fit?</th></tr><tr><td><a href=https://www.adafruit.com/product/2598>M0 WiFi<br>Regular Header</a></td><td>Y</td></tr><tr><td><a href=https://www.adafruit.com/product/3044>M0 WiFi<br>Stacking Header</a></td><td>Y</td></tr></table>
+<table><tr><th>Feather<br>Version</th><th>Fit?</th></tr><tr><td><a href=https://www.adafruit.com/product/2598>M0 WiFi<br>Regular Header</a></td><td>Y</td></tr><tr><td><a href=https://www.adafruit.com/product/3044>M0 WiFi<br>Stacking Header</a></td><td>Y</td></tr><tr><td><a href=https://www.adafruit.com/product/3591>HUZZAH32 <br>Regular Header</a></td><td>Y*</td></tr><tr><td><a href=https://www.adafruit.com/product/3619>HUZZAH32 <br>Stacking Header</a></td><td>Y*</td></tr></table>
+* HUZZAH32 Feathers can only be used with one M2 case screw placed near the USB connector. The other case-screw location is partially occluded by the ESP32 module antenna. Hard case material recommended, such as Natural Versatile Plastic, to more firmly hold the hibernate switch slider using only a single screw.
 
 ## Hardware Modifications
 None required.
