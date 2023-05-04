@@ -9,7 +9,7 @@ This case was designed for snowboarders to wear EmotiBit while performing tricks
 <table><tr><th>EmotiBit<br>Version</th><th>Fit?</th></tr><tr><td>V01</td><td>Y</td></tr><tr><td>V02</td><td>Y</td></tr><tr><td>V03</td><td>Y</td></tr><tr><td><a href=https://github.com/EmotiBit/EmotiBit_Cases/tree/feat-reorg-cases/EmotiBit_3D_Models/V04>V04</a></td><td>Y?</td></tr><tr><td>V05</td><td>Y?</td></tr></table>
 
 ### EmotiBit Compatibility Notes
-- EmotiBit V04 just barely fits length-wise into this case with Shapeways PVP print. This case may not fit V04 with other printers/plastic.
+- EmotiBit V04/V05 just barely fits length-wise into this case with Shapeways PVP print. This case may not fit V04/V05 with other printers/plastic.
 
 ## Feather Compatibility
 <!--- This table is written in minified html to permit scraping into a sub-table in the root EmotiBit_Cases/readme.md -->
