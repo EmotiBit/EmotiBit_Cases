@@ -13,7 +13,7 @@ echo "**************************************************************************
 echo ""
 
 dirs=("SwissArmyCase" "Armadillo" "NinjaCase") # specify ordering of cases to include
-outFileName="test.md"
+outFileName="README.md"
 
 echo "## EmotiBit Cases" > ./$outFileName
 echo "" >> ./$outFileName
