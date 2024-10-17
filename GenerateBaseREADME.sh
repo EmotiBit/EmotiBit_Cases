@@ -47,3 +47,6 @@ do
 	done < $myDir/README.md
 	echo "| [$myDir](./$myDir/) | ![](/$myDir/assets/preview.gif) | $emotibitTable | $featherTable |" >> ./$outFileName
 done
+
+echo "## Want to Contribute to the EmotiBit Cases Repository?" >> ./$outFileName
+echo "See [CONTRIBUTING.md](./CONTRIBUTING.md)" >> ./$outFileName
