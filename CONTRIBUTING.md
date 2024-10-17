@@ -6,7 +6,7 @@ Contributions are always welcome, no matter how small.
 
 The following is a small set of guidelines for how to contribute to the project.
 
-## Instructions for Creating & Updating Cases
+## Guidelines for Creating & Updating Cases
 When creating a new case, copy the directory structure and README format of an existing case to make it easier to have a consistent workflow. 
 
 When updating or creating 3D designs, below are some specific items to include.
