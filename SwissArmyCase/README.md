@@ -1,13 +1,10 @@
 ## Description
 - The case has been designed keeping in mind the design requirements for EmotiBit V4+ and extending compatibility with Adafruit Feather with stacking headers.
 - The slider has been designed to provide easy access to toggle the hibernate (HIB) switch (available on EmotiBit V4+).
-  - The slider is printed as a separate part. You may use the case without the slider, but you  will need to use the spudger provided with 
-    the [Essentials Kit](https://shop.openbci.com/products/emotibit-essentials-kit) to access the HIB switch. 
 
 ## Preview
 
 ### Case
-ToDo: Add updated gif
 
 ![](./assets/preview.gif)
 
@@ -45,14 +42,12 @@ None required.
 None
 
 ## Assembly
-ToDo: Add updated assembly instructions
-
-- Stack the EmotiBit as demonstrated in the [documentation](https://github.com/EmotiBit/EmotiBit_Docs/blob/master/Getting_Started.md#stack-your-emotibit)
+- Stack the EmotiBit as demonstrated in the [documentation](https://github.com/EmotiBit/EmotiBit_Docs/blob/master/Getting_Started.md#stack-your-emotibit), but don't plug the battery into the Feather just yet.
 - Place the slider between the EmotiBit and Feather such that the bottom notch on the slider fits over the hibernate (HIB) switch on EmotiBit.
-- Fit the case over assembled EmotiBit (with the slider now sandwiched between the EmotiBit and Feather).
+- Fit the case over assembled EmotiBit+Feather (with the slider now sandwiched between the EmotiBit and Feather).
   - You will notice that the slider stands flush with the slots on the case.
-- You may use the screws linked above to fasten the case to EmotiBit.
-  - If using the slider, using the screws is recommended as it adds more integrity to the structure and holds everything in place.  
+  - Gently bring the case down and fasten the clips over the EmotiBit.
+- Plug in the battery.
 
 [ToDo: add images demonstrating assembly]
 
