@@ -61,7 +61,7 @@ None
 | Feather LEDs visible | Y |
 | Short-edge EmotiBit strap slots | Y |
 | Long-edge EmotiBit strap slots  | Y |
-| Hibernate switch(with slider) | Y |
+| Hibernate switch (with slider) | Y |
 | Battery connector | Y |
 | Battery removal/replacement | Case must be partially removed |
 | Feather reset button | Requires spudger |
