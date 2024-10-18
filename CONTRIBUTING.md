@@ -18,7 +18,7 @@ Each case needs a [CaseName]/assets/preview.gif to display the preview gif in th
 - Once your part is rotating, use your favorite tools to create an animated gif of your part as a preview. We use [OBS Studio](https://obsproject.com/download) to record a screencast and convert the video to a 600px wide 10fps gif using https://ezgif.com/video-to-gif/
 
 ### [CaseName]/README.md update
-Update all the sections of the README. Be sure to have an updated `EmotiBit Compatibility` table that begins with `<table><tr><th>EmotiBit` and a `Feather Compatibility` table that begins with `<table><tr><th>Feather` to ensure that these elements can be scraped to generate the base README.
+Update all the sections of the [CaseName]/README.md. Be sure to have an updated `EmotiBit Compatibility` table that begins with `<table><tr><th>EmotiBit` and a `Feather Compatibility` table that begins with `<table><tr><th>Feather` to ensure that these elements can be scraped to generate the base README.
 
 ### Update Base README.md
 After updating information in [CaseName]/README.md, the base README.md can be updated by running `GenerateBaseREADME.sh`. If you added a new case, you'll need to add that directory name to the `dirs` variable inside `GenerateBaseREADME.sh` before running.
