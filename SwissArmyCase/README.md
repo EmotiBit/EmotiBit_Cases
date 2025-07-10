@@ -8,9 +8,8 @@
 
 ![](./assets/preview.gif)
 
-<img src="./assets/SwissArmyCase_black_finger_01.png" width="450">
+<img src="./assets/SwissArmyCase_gray_finger_01.png" width="450">
 
-[ToDo: Add updated image]
 
 ### Slider
 - The slider when correctly positioned inside the case, provides an easy and convinient way to toggle the hibernate (HIB)
