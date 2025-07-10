@@ -8,7 +8,7 @@
 
 ![](./assets/preview.gif)
 
-<img src="./assets/SwissArmyCase_gray_finger_01.png" width="450">
+<img src="./assets/SwissArmyCase_Gray_finger_01.png" width="450">
 
 
 ### Slider
